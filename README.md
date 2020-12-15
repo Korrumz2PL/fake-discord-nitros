@@ -3,8 +3,17 @@
  You can fool your friends with this program.
 
 # Launching 
-First with the cd command move to the appropriate folder
-if you are already in this folder run the node.js command
+
+First command:
+
+
+```
+npm instal figlet
+```
+two command 
+```
+node app.js
+```
 
 
 I'm just leave it here
