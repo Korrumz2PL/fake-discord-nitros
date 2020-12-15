@@ -8,9 +8,13 @@ First command:
 
 
 ```
-npm instal figlet
+cd <folder directory>
 ```
 two command 
+```
+npm install figlet 
+```
+three command 
 ```
 node app.js
 ```
