@@ -2,7 +2,7 @@
 
  You can fool your friends with this program.
 
-# Launching 
+# Launching (windows)
 
 First command:
 
